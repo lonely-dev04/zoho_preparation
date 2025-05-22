@@ -336,7 +336,7 @@ Pattern = “ba*a?”, output : true
 Pattern = “a*ab”, output : false
 
 47. Given an input string and a dictionary of words, find out if the input string can be segmented into a space-separated sequence of dictionary words. See following examples for more details.
-Consider the following dictionary 
+Consider the following dictionary
 { i, like, sam, sung, samsung, mobile, ice, 
   cream, icecream, man, go, mango}
 
@@ -549,6 +549,7 @@ Example:
    1 0 0 1
    1 1 1 1
    0 0 0 1
+
    Output:
    _ 1 0 0
    _ 0 0 1
