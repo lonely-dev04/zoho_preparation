@@ -1,4 +1,4 @@
-1. Greater on right side
+1. Greater on right side [Completed]
 You are given an array Arr of size N. Replace every element with the next greatest element (greatest element on its right side) in the array. Also, since there is no element next to the last element, replace it with -1.
 Input:
 N = 6
@@ -26,7 +26,7 @@ For the cell mat[0][0] which is 1, its adjacent cells (mat[0][1] and mat[1][0]) 
 For the cell mat[1][1] which is 1, its adjacent cells (mat[0][1], mat[1][0], mat[1][2], and mat[2][1]) are modified to 0.
 The modification is not applied to the cell mat[2][2] as it doesn't have all four adjacent cells.
 
-3. Equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes. For example, in an array A:
+3. Equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes. For example, in an array A: [Completed]
 Example :
 Input: A[] = {-7, 1, 5, 2, -4, 3, 0}
 Output: 3

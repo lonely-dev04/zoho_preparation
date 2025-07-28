@@ -1,0 +1,50 @@
+1) Pattern program (completed)
+
+n = 5
+
+1
+6  2
+10 7  3
+13 11 8  4
+15 14 12 9 5
+
+2) find common in both arrays (completed)
+
+arr1 = [1,2,4,6,7,9]
+arr2 = [2,3,4,5,8,9]
+
+answer = 2,4,9
+
+3) given 2 strings find the 2nd string reverse is present in the first string and return its index number (Completed)
+
+str1 = "I came by car"
+str2 = "emac"
+
+answer = 2
+in 2nd index of str1, "c" is present and it has "came", its reverse of "emac"
+
+4) convert numerical into words in range of 1 to 99999 (completed)
+
+15 - Fifteen
+102 - One hundred and two
+
+5) given an expression, find whether duplicate bracket are present (completed)
+
+((x+y)) - true
+duplicate present extra bracket ()
+
+(x+y) - false
+no duplicate present
+
+((x+y)+((z))) - true
+
+((x+y)+(y+z)) - false
+
+
+
+3rd round:
+Database design for company
+purchase goods from vendor
+sale goods to customer
+maintain purchase bill and sale bill
+create database table for the above scenario
